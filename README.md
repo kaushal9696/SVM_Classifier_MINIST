@@ -1,7 +1,5 @@
-[Machine Learning] Support Vector Machine Classifier To Identify Handwritten
+## [Machine Learning] Support Vector Machine Classifier To Identify Handwritten
 Digits
-
-## Introduction
 
 - The goal of this project is to use SVM Classifier to train a simple system for
     the recognition of handwritten digits and for that MNIST dataset of
